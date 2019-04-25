@@ -10,7 +10,7 @@ VoodooI2C-DSDT is a repository that is aiming at collecting various successful D
 
 ## Purpose
 
-The purpose of this repository is to provide some useful code examples for people who haven't yet make Voodoo I2C work. Maybe It don't have your model of laptop, but code in this repository may  have  some  help  and references  for you.
+The purpose of this repository is to provide some useful code examples for people who haven't yet make VoodooI2C work. Maybe It don't have your model of laptop, but code in this repository may  have  some  help  and references  for you.
 
 Note that the code in this repository is **ONLY FOR REFERENCES** and  it can‘t replace your own work!
 
