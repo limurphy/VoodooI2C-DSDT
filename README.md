@@ -4,7 +4,7 @@
 
 
 
-Voodoo I2C-DSDT is a repository that is aiming at collecting various successful DSDTs for Voodoo I2C.
+VoodooI2C-DSDT is a repository that is aiming at collecting various successful DSDTs for Voodoo I2C.
 
 
 
