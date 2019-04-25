@@ -1,6 +1,6 @@
 # VoodooI2C-DSDT
 
-中文版|English
+[中文版](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README-CN.md)|[English](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README.md)
 
 
 
@@ -33,7 +33,7 @@ VoodooI2C-DSDT是一个致力于收集各种已有VoodooI2C驱动成功案例的
 
 然后，fork这个仓库并克隆，将你的文件放入并提交到你的仓库下。在检查完文件冲突后，把你的提交作为一个PR发送给我。
 
-提交的示例可以参考潮7000-14代码提交。
+提交的示例可以参考 [联想小新潮7000-14](https://github.com/penghubingzhou/VoodooI2C-DSDT/tree/master/Lenovo%20Xiaoxin%20Chao%207000-14)的代码提交。
 
 
 
@@ -41,7 +41,7 @@ VoodooI2C-DSDT是一个致力于收集各种已有VoodooI2C驱动成功案例的
 
 
 
-- @Alexandred 的  VoodooI2C
-- @daggeryu 的 仓库想法
-- @penghubingzhou 和 @williambj1对本仓库的维护
+- @[Alexandred](https://github.com/alexandred)  的  [VoodooI2C](https://github.com/alexandred/VoodooI2C)
+- @[daggeryu](https://github.com/daggeryu) 的 仓库想法
+- @[penghubingzhou](https://github.com/penghubingzhou)  和 @[williambj1](https://github.com/williambj1) 对本仓库的维护
 

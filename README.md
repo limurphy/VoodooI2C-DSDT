@@ -1,6 +1,6 @@
 # VoodooI2C-DSDT
 
-中文版|English
+[中文版](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README-CN.md)|[English](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README.md)
 
 
 
@@ -34,7 +34,7 @@ This repository welcomes everyone to submit  DSDT code examples that have succes
 
 Then, fork this repository and clone it, put your file in and commit it to your repository. After checking the conflicts, you can  send your commit as a PR to me.
 
-An example for submitting can be found  in Lenovo Xiaoxin Chao 7000-14.
+An example for submitting can be found  in [Lenovo Xiaoxin Chao 7000-14](https://github.com/penghubingzhou/VoodooI2C-DSDT/tree/master/Lenovo%20Xiaoxin%20Chao%207000-14).
 
 
 
@@ -42,6 +42,6 @@ An example for submitting can be found  in Lenovo Xiaoxin Chao 7000-14.
 
 
 
-- @Alexandred for Voodoo I2C
-- @Daggeryu for Idea in  this  repository
-- @penghubingzhou and @williambj1 for  maintaining
+- @[Alexandred](https://github.com/alexandred) for [VoodooI2C](https://github.com/alexandred/VoodooI2C)
+- @[daggeryu](https://github.com/daggeryu) for the idea in  this  repository
+- @[penghubingzhou](https://github.com/penghubingzhou) and @[williambj1](https://github.com/williambj1) for  maintaining
