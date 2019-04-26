@@ -1,8 +1,8 @@
 # VoodooI2C-DSDT
 
-[中文版](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README-CN.md)|[English](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README.md)
+[中文版](https://github.com/penghubingzhou/VoodooI2C-DSDT/blob/master/README-CN.md) | English
 
-VoodooI2C-DSDT is a repository that is aiming at collecting various successful DSDTs for Voodoo I2C.
+VoodooI2C-DSDT is a repository that is aiming at collecting various successful DSDTs for VoodooI2C.
 
 ## Purpose
 
@@ -17,26 +17,19 @@ This repository welcomes everyone to submit  DSDT code examples by PR that have 
 ### To submit your example, please put:
 
 - DSDT file (or Hotpatch SSDT file)
-
 - An ioreg **without** Voodoo I2C installed
-
 - An `Info.txt`
 
 in a folder named by your **Your Laptop Model + Your Trackpad Model**.
 
-   **`Info.txt` should include:**
+**`Info.txt` should include:**
 
-   - Your CPU model (better for including CPU platform, chipset and Southbridge)
-
-   - Your trackpad Device ID
-
-   - Your trackpad Device's Bios Path
-
-   - The mode you use (GPIO interrupt or polling)
-
-   - Satellite Driver You Use
-
-   - Patches you use
+- Your CPU model (better for including CPU platform, chipset and Southbridge)
+- Your trackpad Device ID
+- Your trackpad Device's Bios Path
+- The mode you use (GPIO interrupt or polling)
+- Satellite Driver You Use
+- Patches you use
 
 Then, fork this repository and clone it, put all your files into a folder named by **Your Laptop Model + Your Trackpad Model** and commit it to your repository. After checking the conflicts, you can send your commit as a PR to me.
 
