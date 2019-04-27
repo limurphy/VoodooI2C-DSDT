@@ -1,7 +1,7 @@
 # VoodooI2C-DSDT
-![1](Shinalon_YAO_7000/irq.png)
+![1](irq.png)
 ### Hotpatch 
-[hotpatch](Shinalon_YAO_7000/SSDT-TPAD.dsl)
+[hotpatch](SSDT-TPAD.dsl)
 ### 原始DSDT TPAD部分(ORIGIN DSDT TPAD)
 ```bash
 Device (TPAD)
