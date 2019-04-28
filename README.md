@@ -20,7 +20,7 @@ This repository welcomes everyone to submit  DSDT code examples by PR that have 
 - An ioreg **without** Voodoo I2C installed
 - An `Info.txt`
 
-in a folder named by your **Your Laptop Model + Your Trackpad Model**.
+in a folder named by your **Your Laptop Model**.
 
 **`Info.txt` should include:**
 
@@ -31,7 +31,7 @@ in a folder named by your **Your Laptop Model + Your Trackpad Model**.
 - Satellite Driver You Use
 - Patches you use
 
-Then, fork this repository and clone it, put all your files into a folder named by **Your Laptop Model + Your Trackpad Model** and commit it to your repository. After checking the conflicts, you can send your commit as a PR to me.
+Then, fork this repository and clone it, put all your files into a folder named by **Your Laptop Model** and commit it to your repository. After checking the conflicts, you can send your commit as a PR to me.
 
 An example of submitting can be found in [Lenovo Xiaoxin Chao 7000-14](https://github.com/penghubingzhou/VoodooI2C-DSDT/tree/master/Lenovo%20Xiaoxin%20Chao%207000-14).
 
