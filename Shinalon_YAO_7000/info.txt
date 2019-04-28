@@ -1,0 +1,5 @@
+- CPU model：i5-8300H coffee-Lake
+- Device ID: UNIW0001
+- Device Path: _SB_.PCI0.I2C0.TPAD
+- Working mode: polling mode
+- Satellite: VoodooI2C VoodooI2C-hid
