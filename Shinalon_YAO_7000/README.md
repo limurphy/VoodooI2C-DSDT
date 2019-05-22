@@ -1,20 +1,9 @@
 # VoodooI2C-DSDT
-
-- CPU model：i5-8300H coffee-Lake
-- Device ID: UNIW0001
-- Device Path: \_SB_.PCI0.I2C0.TPAD
-- Working mode: polling mode
-- Satellite: VoodooI2C VoodooI2C-hid
-
 ![1](irq.png)
-
-## Hotpatch
-
+### Hotpatch 
 [hotpatch](SSDT-TPAD.dsl)
-
 ### 原始DSDT TPAD部分(ORIGIN DSDT TPAD)
-
-```asl
+```bash
 Device (TPAD)
         {
             Name (SADR, 0x2C)
@@ -64,10 +53,8 @@ Device (TPAD)
             }
 
 ```
-
 ### POLLING MODE DSDT TPAD(POLLING MODE DSDT TPAD)
-
-```asl
+```bash
  Scope (_SB.PCI0.I2C0)
     {
         Device (TPAD)
@@ -87,7 +74,7 @@ Device (TPAD)
                     )
             })
             CreateByteField (SBFB, \_SB.PCI0.I2C0.TPAD._Y60._ADR, BADR)  // _ADR: Address
-
+            
             # 修改部分
             Name (SBFI, ResourceTemplate ()
             {
@@ -96,7 +83,7 @@ Device (TPAD)
                     0x00000400,
                 }
             })
-
+            
             CreateWordField (SBFI, 0x17, INTA)
             Method (_INI, 0, NotSerialized)  // _INI: Initialize
             {

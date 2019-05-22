@@ -18,11 +18,11 @@ VoodooI2C-DSDT 是一个致力于收集各种已有 VoodooI2C 驱动成功案例
 
 - DSDT 资料（或者热补丁）
 - 一份**未安装** VoodooI2C 的 ioreg，
-- 一份 `Readme.md`
+- 一份`Info.txt`
 
  放入以**笔记本机型**命名的文件夹中。
 
-**`Readme.md` 中应该包括如下内容：**
+**`Info.txt`中应该包括如下内容：**
 
 - 你的 CPU 型号(最好包含 CPU 架构，芯片组，南桥的信息)
 - 你的触摸板设备 ID
