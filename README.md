@@ -18,11 +18,11 @@ This repository welcomes everyone to submit  DSDT code examples by PR that have 
 
 - DSDT file (or Hotpatch SSDT file)
 - An ioreg **without** Voodoo I2C installed
-- An `Info.txt`
+- An `Readme.md`
 
 in a folder named by your **Your Laptop Model**.
 
-**`Info.txt` should include:**
+**`Readme.md` should include:**
 
 - Your CPU model (better for including CPU platform, chipset and Southbridge)
 - Your trackpad Device ID
